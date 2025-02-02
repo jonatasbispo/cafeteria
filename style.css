@@ -51,7 +51,7 @@
 
 /* Container Parallax 1 */
 .container-parallax1 {
-    background-image: url("/img/parallax-imagem1.png");
+    background-image: url("./img/parallax-imagem1.png");
     height: 100vh;
 }
 
@@ -69,7 +69,7 @@
 
 /* Container Parallax 2 */
 .container-parallax2 {
-    background-image: url("/img/parallax-imagem2.jpg");
+    background-image: url("./img/parallax-imagem2.jpg");
     height: 50vh;
 }
 
@@ -98,14 +98,14 @@
 
 /* Container Parallax 3*/
 .container-parallax3 {
-    background-image: url("/img/parallax-imagem3.jpg");
+    background-image: url("./img/parallax-imagem3.jpg");
     height: 50vh;
 }
 
 
 /* Container Parallax 4 */
 .container-parallax4 {
-    background-image: url("/img/parallax-imagem4.png");
+    background-image: url("./img/parallax-imagem4.png");
     height: 100vh;
 }
 
@@ -187,7 +187,7 @@
 /* Container Parallax 5 */
 .container-parallax5 {
     height: 80vh;
-    background-image: url("/img/cafeteria.jpg");
+    background-image: url("./img/cafeteria.jpg");
 }
 
 .container-parallax5 h2 {
@@ -275,7 +275,7 @@
     bottom: 80px;
     right: 50px;
 
-    background-image: url("/img/seta-para-cima.png");
+    background-image: url("./img/seta-para-cima.png");
     background-position: center;
     background-size: cover;
     background-color: #c4a47c;
